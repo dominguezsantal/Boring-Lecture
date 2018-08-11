@@ -1,0 +1,10 @@
+h2{
+  color: blue;
+  text-align: center;
+}
+p.intro{
+  color: red;
+}
+img.profile-photo{
+  border-radius: 50%;
+}
